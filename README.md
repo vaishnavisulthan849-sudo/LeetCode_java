@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
