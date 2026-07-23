@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0136-single-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
 | ------- |
