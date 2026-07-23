@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0015-3sum) |
+| [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
