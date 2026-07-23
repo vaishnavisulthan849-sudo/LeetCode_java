@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
