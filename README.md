@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0136-single-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0035-search-insert-position) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
