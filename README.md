@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
+| [1021-remove-outermost-parentheses](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
