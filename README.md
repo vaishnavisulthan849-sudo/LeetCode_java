@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/0389-find-the-difference) |
 | [1021-remove-outermost-parentheses](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
