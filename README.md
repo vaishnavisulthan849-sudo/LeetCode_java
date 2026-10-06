@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1021-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [1484-group-sold-products-by-the-date](https://github.com/vaishnavisulthan849-sudo/LeetCode_java/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
